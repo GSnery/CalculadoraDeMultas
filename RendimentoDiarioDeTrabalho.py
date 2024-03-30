@@ -1,5 +1,7 @@
 #Variaveis
 PesoPeixe=float(input("Insira a quantidade de Kg "))
+
+#fórmulas
 KgEx=int(PesoPeixe-50)
 Multa=int(4*KgEx)
 
